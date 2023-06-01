@@ -1,2 +1,1 @@
-# coronary-heart-disease
-Implementing ML algorithms to predict the risk of heart disease using common risk factors
+Implementing machine learning algorithms in predicting the risk of coronary heart disease from common risk factors
